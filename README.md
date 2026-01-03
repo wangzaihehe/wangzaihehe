@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Zihan Wang</h1>
+<!-- ===== HEADER ===== -->
+<p align="center">
+  <img src="【REHEADER_SVG_URL】" />
+</p>
+
+<br/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+RAG+Systems+Builder;Full-Stack+Developer;Privacy-Preserving+ML+Researcher" />
+  <i>Building real AI systems, not just demos.</i>
 </p>
 
 ---
@@ -17,13 +22,13 @@
 
 ### 📊 GitHub Stats
 
-
----
-
-### 🏆 Achievements
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wangzaihehe&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wangzaihehe&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=wangzaihehe&theme=onedark&no-frame=true&row=1&column=6"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wangzaihehe&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -31,7 +36,7 @@
 ### 🛠 Tech Stack
 
 **AI / ML**
-  
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -63,14 +68,6 @@ _(See pinned repositories below 👇)_
 
 ---
 
-### 📫 Connect with Me
-
-- 💼 LinkedIn: *(optional, 可后续加)*
-- 🌐 Portfolio / Demo: *(optional)*
-- ✉️ Email: *(optional)*
-
----
-
 <p align="center">
-<i>“Build real systems. Measure real impact.”</i>
+  <i>Build systems that last.</i>
 </p>
