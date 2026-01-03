@@ -61,9 +61,8 @@ _(See pinned repositories below 👇)_
 
 ### 📫 Connect with Me
 
-- 💼 LinkedIn: *(optional, 可后续加)*
-- 🌐 Portfolio / Demo: *(optional)*
-- ✉️ Email: *(optional)*
+- 💼 LinkedIn: https://www.linkedin.com/in/zihan-wang-50011b33a/
+- 📮 Email: wangzaiofficial@gmail.com
 
 ---
 
