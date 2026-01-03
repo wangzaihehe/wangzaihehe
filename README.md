@@ -9,6 +9,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Graduate student & TA at **Northeastern University**
+- 🎓 Undergraduate student at **University of California - Davis**
 - 🤖 Focused on **AI Engineering**, **RAG systems**, and **ML system design**
 - 🧠 Interested in **privacy-preserving ML**, local/offline LLMs, and applied research
 - ⚙️ Love building **end-to-end systems**: model → backend → frontend → infra
