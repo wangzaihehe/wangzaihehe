@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Zihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=tokyonight&hide_border=true)
+
 
 <!--
 **wangzaihehe/wangzaihehe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
