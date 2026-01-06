@@ -16,15 +16,6 @@
 
 
 ---
-### Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=wangzaihehe)](https://git.io/streak-stats)
----
-
-### 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=wangzaihehe&theme=onedark&no-frame=true&row=1&column=6"/>
-</p>
 
 ---
 
